@@ -1,5 +1,3 @@
-# nodejs-filesystem
-
 # Deployed URL:
 https://fs-nodejs.herokuapp.com/
 
